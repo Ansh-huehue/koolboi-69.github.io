@@ -1,0 +1,133 @@
+.head {
+    background-image: url("https://toppng.com/uploads/preview/muse-pen-poetry-prose-thought-wallpaper-11555112296dmxgmdxfyt.jpg");
+    padding: 5% 3%;
+    margin: 0;
+    color: #daddfc;
+    background-size: 110% 120%;
+    text-align: left;
+    padding-bottom: 200px;
+}
+
+h1 {
+    font-family: "Lucida Calligraphy";
+    font-weight: 100;
+    font-size: 3.5rem;
+}
+
+.intro {
+    margin-right: 50%;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+
+/* navbar */
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 3%;
+    overflow: hidden;
+    background-color: #f3f3f3;
+}
+
+.navitems {
+    float: left;
+    font-size: 1.5rem;
+}
+
+.navitems a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 60px;
+    text-decoration: none;
+}
+
+.navitems a:hover {
+    background-color: #111;
+}
+
+.gallery {
+    margin: 0;
+    padding: 5% 1%;
+}
+
+h2 {
+    font-family: Lucida Calligraphy;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.gp1 {
+    width: 100%;
+    height: 100%;
+}
+
+.im {
+    position: relative;
+    display: inline-block;
+    width: 40%;
+    height: 506px;
+}
+
+.gp2 {
+    height: 50%;
+    width: 30%;
+}
+
+.im2 {
+    width: 58%;
+}
+
+.bio {
+    background-image: url("186179-women-Emma_Watson-748x421.jpg");
+    background-size: 100% 100%;
+    color: #000000;
+    padding: 3% 1%;
+    padding-top: 2%;
+    text-align: left;
+    padding-left: 50%;
+}
+
+.sociall {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    font-family: Lucida Calligraphy;
+}
+
+.t2 {
+    font-size: 1.2rem;
+    font-family: Lucida Calligraphy;
+}
+
+.usefull {
+    padding: 5% 5%;
+    text-align: center;
+}
+
+.tusefull {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    padding-left: 2rem;
+}
+
+.footer {
+    background-image: url(bg69.jpeg);
+    font-size: 0.8rem;
+    background-color: #2e4c6d;
+    color: #226966;
+    text-align: center;
+    padding: 3%;
+}
+
+.hide {
+    display: none;
+}
